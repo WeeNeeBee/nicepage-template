@@ -304,34 +304,9 @@ input
     font-weight: lighter;
     color: rgb(73, 70, 70);
 }
-/* table
+table
 {
   width: 100%;
-} */
-
-/* in your media query, set flex-direction:row; for responsiveness */
-.subscribe{
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-}
-
-.sub{
-    margin: auto;
-    width: 50%;
-    justify-content: center;
-}
-.sub .sub-par{
-    margin: 2rem auto;
-    align-items: center;
-    justify-content: center;
-    
-    width: 70%;
-}
-
-.sub-par p{
-    font-size: .9em;
-    font-weight: normal;
 }
 .sub-img
 {
